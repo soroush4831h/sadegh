@@ -2,5 +2,5 @@ print("hell")
 print("hell")
 print("hell")
 print("hell")
-s="soroush123"
+s="lkshads"
 sa=True
